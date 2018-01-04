@@ -1,0 +1,93 @@
+/* Header CSS */
+
+
+body {
+  background-color: #E8E8E8;
+  color: grey;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+h3 {
+  color: #cc0052;
+}
+
+footer {
+  background-color: #cc0052;
+  text-align: center;
+  color: white;
+  padding-bottom: 64px;
+  padding-top: 32px;
+}
+
+#greensection {
+  background-color: 	#cccc00;
+  width: 100%;
+  color: white;
+  padding-top: 32px;
+  padding-bottom: 32px;
+
+}
+
+#tablehead {
+  width: 600px;
+  text-align: right;
+}
+
+#mainpic {
+  width: 100%;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+header {
+  padding: 32px;
+
+
+}
+
+#yogurttable {
+  width: 100%;
+  padding-left: 32px;
+}
+
+.icons {
+  width: 50px;
+  height: 50px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 200px;
+  right: 325px;
+}
+
+.textcenter {
+  position: absolute;
+  bottom: 35px;
+  right: -10px;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+}
+
+a:link {
+  color: grey;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: #cc0052;
+}
